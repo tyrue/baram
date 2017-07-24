@@ -1,0 +1,183 @@
+On <<Sat 08 Feb 2014, 16:40:52>> the error <<cannot convert Fixnum into String (#<Scene_Map:0x982c3c0>)>> occured.
+On <<Sat 08 Feb 2014, 16:41:32>> the error <<cannot convert Fixnum into String (#<Scene_Map:0x9813130>)>> occured.
+On <<Sat 08 Feb 2014, 16:43:46>> the error <<cannot convert Fixnum into String (#<Scene_Map:0x99982a8>)>> occured.
+On <<Sat 08 Feb 2014, 16:52:06>> the error <<cannot convert nil into String (#<Scene_Map:0x2e0cc38>)>> occured.
+On <<Sat 08 Feb 2014, 16:56:17>> the file <<Graphics/Characters/0>> was missing.
+On <<Sat 08 Feb 2014, 16:57:38>> the file <<Graphics/Characters/$char22.to_i>> was missing.
+On <<Sat 08 Feb 2014, 16:58:03>> the file <<Graphics/Characters/0>> was missing.
+On <<Sat 08 Feb 2014, 16:58:24>> the file <<Graphics/Characters/0>> was missing.
+On <<Sat 08 Feb 2014, 16:58:55>> the file <<Graphics/Characters/$char22>> was missing.
+On <<Sat 08 Feb 2014, 17:01:36>> the file <<Graphics/Characters/0>> was missing.
+On <<Sat 08 Feb 2014, 17:03:37>> the error <<cannot convert Fixnum into String (#<Scene_Map:0x99d3ea0>)>> occured.
+On <<Sat 08 Feb 2014, 17:04:22>> the file <<Graphics/Characters/0>> was missing.
+On <<Sat 08 Feb 2014, 17:05:48>> the file <<Graphics/Characters/0>> was missing.
+On <<Sat 08 Feb 2014, 17:17:10>> the file <<Graphics/Characters/+$charp+>> was missing.
+On <<Sat 08 Feb 2014, 17:17:44>> the file <<Graphics/Characters/$charp>> was missing.
+On <<Sun 30 Mar 2014, 00:52:32>> the error <<getaddrinfo: no address associated with hostname. (#<Scene_Connect:0x97eb1b8>)>> occured.
+On <<Sun 30 Mar 2014, 00:52:42>> the error <<getaddrinfo: no address associated with hostname. (#<Scene_Connect:0x97eb1b8>)>> occured.
+On <<Sun 06 Apr 2014, 12:39:41>> the error <<Section198:113: syntax error ()>> occured.
+On <<Sun 06 Apr 2014, 12:39:41>> the error <<compile error
+Section198:113: syntax error ()>> occured.
+On <<Sat 11 Oct 2014, 20:49:23>> the error <<(eval):4: syntax error (#<Scene_Reinit:0x93520d8>)>> occured.
+On <<Sat 11 Oct 2014, 20:49:23>> the error <<(eval):4: syntax error
+(eval):5: syntax error (#<Scene_Reinit:0x93520d8>)>> occured.
+On <<Sat 11 Oct 2014, 20:49:23>> the error <<compile error
+(eval):4: syntax error
+(eval):5: syntax error (#<Scene_Reinit:0x93520d8>)>> occured.
+On <<Sun 02 Jul 2017, 01:52:32>> the error << (#<Scene_Connect:0x7b81568>)>> occured.
+On <<Sun 02 Jul 2017, 02:01:45>> the error << (#<Scene_Connect:0x7b76538>)>> occured.
+On <<Sun 02 Jul 2017, 02:02:33>> the error << (#<Scene_Connect:0x7b6f568>)>> occured.
+On <<Sun 02 Jul 2017, 02:05:16>> the error << (#<Scene_Connect:0x7b84538>)>> occured.
+On <<Sun 02 Jul 2017, 02:07:08>> the error << (#<Scene_Connect:0x7b71568>)>> occured.
+On <<Sun 02 Jul 2017, 02:08:33>> the error << (#<Scene_Connect:0x7b7f568>)>> occured.
+On <<Sun 02 Jul 2017, 22:44:51>> the error << (#<Scene_Connect:0x7ba9538>)>> occured.
+On <<Sun 02 Jul 2017, 22:54:24>> the error << (#<Scene_Connect:0x7bab568>)>> occured.
+On <<Thu 06 Jul 2017, 06:29:49>> the error <<(eval):1: syntax error (#<Scene_Map:0x7d60f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:29:49>> the error <<(eval):1: syntax error
+p 1 : $game_party.actors[0].name (#<Scene_Map:0x7d60f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:29:49>> the error <<(eval):1: syntax error
+p 1 : $game_party.actors[0].name
+     ^ (#<Scene_Map:0x7d60f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:29:49>> the error <<compile error
+(eval):1: syntax error
+p 1 : $game_party.actors[0].name
+     ^ (#<Scene_Map:0x7d60f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:30:17>> the error <<(eval):1: syntax error (#<Scene_Map:0x7d4f830>)>> occured.
+On <<Thu 06 Jul 2017, 06:30:17>> the error <<(eval):1: syntax error
+p 1 : $game_party.actors[0].name (#<Scene_Map:0x7d4f830>)>> occured.
+On <<Thu 06 Jul 2017, 06:30:17>> the error <<(eval):1: syntax error
+p 1 : $game_party.actors[0].name
+     ^ (#<Scene_Map:0x7d4f830>)>> occured.
+On <<Thu 06 Jul 2017, 06:30:17>> the error <<compile error
+(eval):1: syntax error
+p 1 : $game_party.actors[0].name
+     ^ (#<Scene_Map:0x7d4f830>)>> occured.
+On <<Thu 06 Jul 2017, 06:35:35>> the error <<(eval):3: syntax error (#<Scene_Map:0x7ca9e00>)>> occured.
+On <<Thu 06 Jul 2017, 06:35:35>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7ca9e00>)>> occured.
+On <<Thu 06 Jul 2017, 06:35:35>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7ca9e00>)>> occured.
+On <<Thu 06 Jul 2017, 06:35:35>> the error <<compile error
+(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7ca9e00>)>> occured.
+On <<Thu 06 Jul 2017, 06:36:30>> the error <<(eval):1: syntax error (#<Scene_Map:0x7d80ba0>)>> occured.
+On <<Thu 06 Jul 2017, 06:36:30>> the error <<(eval):1: syntax error
+print '1'  $game_party.actors[0].name (#<Scene_Map:0x7d80ba0>)>> occured.
+On <<Thu 06 Jul 2017, 06:36:30>> the error <<(eval):1: syntax error
+print '1'  $game_party.actors[0].name
+                      ^ (#<Scene_Map:0x7d80ba0>)>> occured.
+On <<Thu 06 Jul 2017, 06:36:30>> the error <<compile error
+(eval):1: syntax error
+print '1'  $game_party.actors[0].name
+                      ^ (#<Scene_Map:0x7d80ba0>)>> occured.
+On <<Thu 06 Jul 2017, 06:38:02>> the error <<(eval):3: syntax error (#<Scene_Map:0x7d7c908>)>> occured.
+On <<Thu 06 Jul 2017, 06:38:02>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d7c908>)>> occured.
+On <<Thu 06 Jul 2017, 06:38:02>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d7c908>)>> occured.
+On <<Thu 06 Jul 2017, 06:38:02>> the error <<compile error
+(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d7c908>)>> occured.
+On <<Thu 06 Jul 2017, 06:39:37>> the error <<(eval):3: syntax error (#<Scene_Map:0x7d621d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:39:37>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d621d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:39:37>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d621d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:39:37>> the error <<compile error
+(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d621d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:43:19>> the error <<(eval):3: syntax error (#<Scene_Map:0x7d7d5b8>)>> occured.
+On <<Thu 06 Jul 2017, 06:43:19>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d7d5b8>)>> occured.
+On <<Thu 06 Jul 2017, 06:43:19>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d7d5b8>)>> occured.
+On <<Thu 06 Jul 2017, 06:43:19>> the error <<compile error
+(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d7d5b8>)>> occured.
+On <<Thu 06 Jul 2017, 06:45:26>> the error <<cannot convert nil into String (#<Scene_Map:0x7adf998>)>> occured.
+On <<Thu 06 Jul 2017, 06:47:20>> the error <<(eval):3: syntax error (#<Scene_Map:0x7d49a90>)>> occured.
+On <<Thu 06 Jul 2017, 06:47:20>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d49a90>)>> occured.
+On <<Thu 06 Jul 2017, 06:47:20>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d49a90>)>> occured.
+On <<Thu 06 Jul 2017, 06:47:20>> the error <<compile error
+(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d49a90>)>> occured.
+On <<Thu 06 Jul 2017, 06:50:25>> the error <<(eval):3: syntax error (#<Scene_Map:0x7d83700>)>> occured.
+On <<Thu 06 Jul 2017, 06:50:25>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d83700>)>> occured.
+On <<Thu 06 Jul 2017, 06:50:25>> the error <<(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d83700>)>> occured.
+On <<Thu 06 Jul 2017, 06:50:25>> the error <<compile error
+(eval):3: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d83700>)>> occured.
+On <<Thu 06 Jul 2017, 06:54:47>> the error <<(eval):4: syntax error (#<Scene_Map:0x7d7c9d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:54:47>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d7c9d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:54:47>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d7c9d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:54:47>> the error <<compile error
+(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d7c9d0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:16>> the error <<(eval):4: syntax error (#<Scene_Map:0x7d70fe0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:16>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d70fe0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:16>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d70fe0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:16>> the error <<compile error
+(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d70fe0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:52>> the error <<(eval):4: syntax error (#<Scene_Map:0x7c98ed0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:53>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7c98ed0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:53>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7c98ed0>)>> occured.
+On <<Thu 06 Jul 2017, 06:55:53>> the error <<compile error
+(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7c98ed0>)>> occured.
+On <<Thu 06 Jul 2017, 06:56:29>> the error <<(eval):4: syntax error (#<Scene_Map:0x7d55f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:56:29>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level (#<Scene_Map:0x7d55f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:56:29>> the error <<(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d55f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:56:29>> the error <<compile error
+(eval):4: syntax error
+p 3 :  $game_party.actors[0].level
+     ^ (#<Scene_Map:0x7d55f90>)>> occured.
+On <<Thu 06 Jul 2017, 06:57:42>> the error <<(eval):1: syntax error (#<Scene_Map:0x7c2fa78>)>> occured.
+On <<Thu 06 Jul 2017, 06:57:42>> the error <<(eval):1: syntax error
+p 13 : $game_player.y (#<Scene_Map:0x7c2fa78>)>> occured.
+On <<Thu 06 Jul 2017, 06:57:42>> the error <<(eval):1: syntax error
+p 13 : $game_player.y
+      ^ (#<Scene_Map:0x7c2fa78>)>> occured.
+On <<Thu 06 Jul 2017, 06:57:42>> the error <<compile error
+(eval):1: syntax error
+p 13 : $game_player.y
+      ^ (#<Scene_Map:0x7c2fa78>)>> occured.
+On <<Thu 06 Jul 2017, 06:59:46>> the error <<(eval):8: syntax error (#<Scene_Map:0x7cc02a8>)>> occured.
+On <<Thu 06 Jul 2017, 06:59:46>> the error <<compile error
+(eval):8: syntax error (#<Scene_Map:0x7cc02a8>)>> occured.
+On <<Thu 06 Jul 2017, 07:00:39>> the error <<(eval):8: syntax error (#<Scene_Map:0x7c4ebb8>)>> occured.
+On <<Thu 06 Jul 2017, 07:00:39>> the error <<compile error
+(eval):8: syntax error (#<Scene_Map:0x7c4ebb8>)>> occured.
+On <<Sun 16 Jul 2017, 17:14:43>> the error << (#<Scene_Login:0x7ddd250>)>> occured.
+On <<Mon 17 Jul 2017, 22:25:53>> the error << (#<Scene_Map:0x7b21108>)>> occured.
